@@ -1,0 +1,6 @@
+default_location             = "centralindia"
+root_id                      = "wip"
+root_name                    = "tih-wip"
+subscription_id_connectivity = "c75965b8-a26c-478c-9d4a-1e1084e76f0c"
+subscription_id_identity     = "c75965b8-a26c-478c-9d4a-1e1084e76f0c"
+subscription_id_management   = "c75965b8-a26c-478c-9d4a-1e1084e76f0c"
